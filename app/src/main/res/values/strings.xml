@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">E-commerce ABC</string>
+    <string name="bem_vindo">Sing-in</string>
+    <string name="dadosP">Dados Pessoais</string>
+    <string name="dadosPag">Dados Pagamento para Clube</string>
+    <string name="nome">Nome Completo</string>
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="senhaA">Senha Atual</string>
+    <string name="sair">Sair</string>
+    <string name="voltar">Voltar</string>
+    <string name="login">Login</string>
+    <string name="cpf">CPF</string>
+    <string name="nomeTitular">Nome Titular</string>
+    <string name="numeroCartao">Numero Cartão</string>
+    <string name="cvvCartao">CVV</string>
+    <string name="vencimentoCartao">Validade do Cartão</string>
+    <string name="numeroConta">Conta</string>
+    <string name="numeroAgencia">Numero da Agencia</string>
+    <string name="nomeBanco">Nome do Banco</string>
+    <string name="entrar">Entrar</string>
+    <string name="prosseguir">Prosseguir</string>
+    <string name="criarConta">Cadastre-se!</string>
+    <string name="concluir">Concluir</string>
+    <string name="senhaE">Esqueceu a Senha?</string>
+    <string name="senhaC">Confirme a Senha</string>
+    <string name="senhaN">Nova Senha</string>
+    <string name="dadosPessoais">Dados Pessoais</string>
+    <string name="Pagamento">Dados de Pagamento da Assinatura</string>
+    <string name="Salvar">Salvar</string>
+    <string name="Crédito">Crédito</string>
+    <string name="Débito">Débito</string>
+    <string name="fpagamento">Forma de Pagamento</string>
+    <string name="pagInicial">Página inicial</string>
+    <string name="encerrarConta">Excluir Conta</string>
+    <string name="plano">Assine o Plano!</string>
+    <string name="atualizar">Atualizar Informações</string>
+    <string name="Cancelar">Cancelar Assinatura</string>
+    <string name="gerenciar">Gerenciar Assinatura</string>
+    <string name="Sair">Sair</string>
+    <string name="inicio">Aqui será a tela inicial da área de compras</string>
+
+</resources>
